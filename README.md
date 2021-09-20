@@ -15,7 +15,11 @@ Testing take a long time and is not a single step process (img of iterative proc
 Start small then scale up testing
 Usually takes 6 to 12 weeks to fully test
 
+## Download and Install Java
 
+## Install IntelliJ and Scala
+
+## Download Gattling
 
 
 how to make app highly available?
