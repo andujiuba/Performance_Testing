@@ -25,6 +25,6 @@ diffreent regions have different vpcS LOAD BALANCERS
 
 ## Install IntelliJ and Scala
 
-## Download Gattling
+## Download Gatling
 
 
