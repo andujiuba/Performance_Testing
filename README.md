@@ -23,6 +23,8 @@ diffreent regions have different vpcS LOAD BALANCERS
 
 ## Download and Install Java
 
+https://devwithus.com/install-java-windows-10/
+
 ## Install IntelliJ and Scala
 
 ## Download Gatling
