@@ -36,4 +36,27 @@ https://devwithus.com/install-java-windows-10/
 
 ## Download Gatling
 
+## Instal Maven (for Java)
 
+https://mkyong.com/maven/how-to-install-maven-in-windows/
+
+---
+**Rough notes**
+What should we be monitoring about our app?
+Network traffic, CPU, etc. Automate reactions to situations
+
+Get charged for max no. of instances that spin up --. need a policy for min/max policy,
+when reating an autoscaling we provide a min and max no of instances
+when autoscalinf kicks in new instances spin up
+app load balancer attached to ig and vpc
+when traffic increases node is balances between instances
+#lod balancer redirectes traffic to active instances so no instance gets overwhelmed
+as automatically ajusts computaional resources
+
+**DIAGRAM FOR CW AND AUTOSCALING**
+CW triggers event after observing the traffic
+this is make sure user doesnt notice change in load
+inastnace attached to autoscaling group
+
+
+**DIAGRAM FOR AUTOMATION W GATLING, AWS, CW, S3, DOCKER, JENKINS**
