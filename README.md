@@ -22,6 +22,11 @@ diffreent regions have different vpcS LOAD BALANCERS
 different types of testing, spike, soak, load
 
 
+Test environment
+env just before pub,
+where you can perform tests
+identical to live app
+
 ## Download and Install Java
 
 https://devwithus.com/install-java-windows-10/
