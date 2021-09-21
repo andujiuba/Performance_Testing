@@ -21,6 +21,7 @@ using multiple avalablity zones
 diffreent regions have different vpcS LOAD BALANCERS
 different types of testing, spike, soak, load
 
+# ***ask kieron what his question was***
 
 Test environment
 env just before pub,
