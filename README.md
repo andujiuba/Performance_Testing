@@ -43,6 +43,7 @@ https://mkyong.com/maven/how-to-install-maven-in-windows/
 ---
 **Rough notes**
 What should we be monitoring about our app?
+internet facing vs internal
 Network traffic, CPU, etc. Automate reactions to situations
 
 Get charged for max no. of instances that spin up --. need a policy for min/max policy,
