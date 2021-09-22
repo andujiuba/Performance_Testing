@@ -35,6 +35,8 @@ https://devwithus.com/install-java-windows-10/
 ## Install IntelliJ and Scala
 
 ## Download Gatling
+why gatling? used for performance testing and monitoring - create tests in scala, gatling runs them and makes a series of graphs and charts to narrate how successful the test was
+
 
 ## Instal Maven (for Java)
 
@@ -44,6 +46,7 @@ https://mkyong.com/maven/how-to-install-maven-in-windows/
 **Rough notes**
 What should we be monitoring about our app?
 internet facing vs internal
+internet facing -- RAM CPU load remaining disk space network load
 Network traffic, CPU, etc. Automate reactions to situations
 
 Get charged for max no. of instances that spin up --. need a policy for min/max policy,
@@ -53,6 +56,8 @@ app load balancer attached to ig and vpc
 when traffic increases node is balances between instances
 #lod balancer redirectes traffic to active instances so no instance gets overwhelmed
 as automatically ajusts computaional resources
+
+4 types of performance testing: load, stress, spike, soak
 
 **DIAGRAM FOR CW AND AUTOSCALING**
 CW triggers event after observing the traffic
