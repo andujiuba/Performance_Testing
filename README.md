@@ -50,7 +50,8 @@ https://mkyong.com/maven/how-to-install-maven-in-windows/
 
 ---
 **Rough notes**
-What should we be monitoring about our app?
+What should we be monitoring about our app
+https://dzone.com/articles/how-to-choose-monitoring-tools-for-devops-and-sre
 internet facing vs internal
 internet facing -- RAM CPU load remaining disk space network load
 Network traffic, CPU, etc. Automate reactions to situations
